@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the development server would intermittently crash without providing any specific error messages in the console. This would typically happen after several minutes of running the application, especially when making frequent code changes. The behavior was non-deterministic, making it difficult to pinpoint the cause.
